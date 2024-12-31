@@ -7,7 +7,7 @@ This project addresses a critical business need by building a comprehensive data
 
 ## System Architecture
 
-![System Architecture](https://github.com/SaketKr-On-Git/User_data_Analysis_with_kafka/blob/main/Data%20engineering%20architecture.jpg)
+![System Architecture](https://github.com/SaketKr-On-Git/Sales_data_analysis_on_Azure_Cloud/blob/main/System%20Architecture.png)
 
 ## Business Requirements
 
